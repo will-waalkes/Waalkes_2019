@@ -1,7 +1,8 @@
 
 lyapy-master/
-*DS_Store*
+*.DS_Store*
 *.fits*
 *.gz*
 *.tar*
 *.zip*
+referee/
